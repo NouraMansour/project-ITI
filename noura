@@ -1,4 +1,4 @@
 git remote add origin git@github.com:NouraMansour/project-ITI.git
 git add .
 git commit -m "noura"
-git push origin main
+git push origin master
